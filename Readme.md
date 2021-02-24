@@ -16,3 +16,6 @@ https://www.udemy.com/course/django-python
 	- python manage.py runserver 0.0.0.0:8000
 - access the server :
 	- http://127.0.0.1:8000
+
+
+-pass:2203
